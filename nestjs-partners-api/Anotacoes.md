@@ -18,4 +18,8 @@ ou
 
 -> RestAPI > yes
 
+# DOCKER
+
+- [X] docker compose up
+
 
