@@ -27,5 +27,8 @@ ou
 
 - [X] npx prisma init 
 
+- [X] npx prisma migrate dev  (Roda uma migrate)
+
+
 
 
