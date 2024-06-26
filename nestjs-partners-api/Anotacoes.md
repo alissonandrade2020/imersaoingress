@@ -8,11 +8,11 @@
 
 ## Criar um Modulo
 
-- [X] nest generate controller event 
+- [X] nest generate controller events
 
 ou 
 
-- [X] nest g resource    (cria um modulos crud)
+- [X] nest g resource    (cria os modulos Crud)
 
 - events
 
@@ -21,5 +21,11 @@ ou
 # DOCKER
 
 - [X] docker compose up
+- [X] docker compose down
+
+# Prisma ORM
+
+- [X] npx prisma init 
+
 
 
